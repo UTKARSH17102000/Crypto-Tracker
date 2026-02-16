@@ -25,7 +25,6 @@ const useStyles = makeStyles((theme) => ({
     alignItems: "center",
   },
 }));
-
 function Banner() {
   const classes = useStyles();
 
